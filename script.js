@@ -2,32 +2,32 @@ let productList = [
     {     
     title: "Rolex Submariner",
     price: 124999,
-    imageUrl: "/Ett_projekt/rolexsub.png"
+    imageUrl: "/rolexsub.png"
     },
     {     
     title: "Rolex Submariner",
     price: 124999,
-    imageUrl: "/Ett_projekt/rolexsub.png"
+    imageUrl: "/rolexsub.png"
     },
     {     
     title: "Rolex Submariner",
     price: 124999,
-    imageUrl: "/Ett_projekt/rolexsub.png"
+    imageUrl: "/rolexsub.png"
     },
     {     
     title: "Rolex Submariner",
     price: 124999,
-    imageUrl: "/Ett_projekt/rolexsub.png"
+    imageUrl: "/rolexsub.png"
     },
     {     
     title: "Rolex Submariner",
     price: 124999,
-    imageUrl: "/Ett_projekt/rolexsub.png"
+    imageUrl: "/rolexsub.png"
     },
     {     
     title: "Rolex Submariner",
     price: 124999,
-    imageUrl: "/Ett_projekt/rolexsub.png"
+    imageUrl: "/rolexsub.png"
     },
 
 ]

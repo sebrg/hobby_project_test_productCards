@@ -2,7 +2,7 @@ body {
     margin: 0px;
     width: 100vw;
     height: 100vh;
-    background-image: url(/Ett_projekt/blurredbackground.jpg);
+    background-image: url(/blurredbackground.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
